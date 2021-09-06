@@ -1,5 +1,5 @@
 # To build:
-#  $ apt install fonts-linuxlibertine texlive-xetex pandoc
+#  $ apt install fonts-inconsolata fonts-linuxlibertine texlive-xetex pandoc
 #  $ make
 
 # we need xelatex for utf-8 support
